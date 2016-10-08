@@ -27,7 +27,6 @@ def create_tour(nodes):
     tour = []
     # create a connected graph
     # first, pick two random nodes for an edge
-	# random
     x = poprandom(unconnected)
     y = poprandom(unconnected)
     connected.append(x)
