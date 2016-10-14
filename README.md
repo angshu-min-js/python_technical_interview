@@ -207,3 +207,11 @@ my_win.exitonlclick()
 ### Searching and Sorting
 
 - Binary Search: Finding the mid and searching, O(log(n))
+- Recursion: Calling function by the function itself
+
+  In practice if we were to use recursion to solve this problem we should use a hash table
+  to store and fetch previously calculated results. This will increase the space needed
+  but will drastically improve the runtime efficiency.
+
+- Bubble Sort: Naive Approach, compare two and switch, Efficiency: O(n^2), Space: O(1)
+- Merge Sort: Divide & Conquer, Efficiency: O(log(n)), Space: O(n)
