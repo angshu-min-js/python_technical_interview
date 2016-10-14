@@ -220,7 +220,7 @@ my_win.exitonlclick()
 ### Maps and Hashing
 - Map --> dictionary
 - Map is a 'set' based DS (no sequence) kinda like Arrays which is a 'list' based DS
-- Map = <key, value>
+- Map = '<key, value>'
 - keys are unique sets
 - In Python, the map concept appears as a built-in data type called a dictionary.
 
