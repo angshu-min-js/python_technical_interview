@@ -240,3 +240,11 @@ Load Factor = Number of Entries / Number of Buckets
 ### Trees
 - Its an extension of a linked list
 - must be connected and shouldn't have cycles
+- Depth First Search Traversal: Pre-Order, In-Order, Post-Order
+
+![alt tag](https://github.com/angshu-min-js/python_technical_interview/tree.jpg)
+  BFS: A, B, C, D, E, F
+
+  In-order: D, B, E, F, A, C
+
+  Pre-order: A, B, D, E, F, C
