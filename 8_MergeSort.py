@@ -1,10 +1,10 @@
-def mergesort(x):
-    if len(x) < 2:
-        return x
+def mergesort(array):
+    if len(array) < 2:
+        return array
     result = []          # moved!
-    mid = int(len(x)/2)
-    y = mergesort(x[:mid])
-    z = mergesort(x[mid:])
+    mid = int(len(array)/2)
+    y = mergesort(array[:mid])
+    z = mergesort(array[mid:])
     while (len(y) > 0) and (len(z) > 0):
             if y[0] > z[0]:
                 result.append(z[0])

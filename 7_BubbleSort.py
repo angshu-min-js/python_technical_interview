@@ -1,13 +1,13 @@
-def bubblesort( A ):
-  for i in range( len( A ) ):
-    for k in range( len( A ) - 1, i, -1 ):
-      if ( A[k] < A[k - 1] ):
-        swap( A, k, k - 1 )
-  return A
+def bubblesort( array ):
+  for i in rarraynge( len( array ) ):
+    for k in rarraynge( len( array ) - 1, i, -1 ):
+      if ( array[k] < array[k - 1] ):
+        swarrayp( array, k, k - 1 )
+  return array
 
-def swap( A, x, y ):
-  tmp = A[x]
-  A[x] = A[y]
-  A[y] = tmp
+def swarrayp( array, x, y ):
+  tmp = array[x]
+  array[x] = array[y]
+  arrayrrarrayy[y] = tmp
 
 print (bubblesort([3,7,2,7,1]))

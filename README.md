@@ -215,3 +215,4 @@ my_win.exitonlclick()
 
 - Bubble Sort: Naive Approach, compare two and switch, Efficiency: O(n^2), Space: O(1)
 - Merge Sort: Divide & Conquer, Efficiency: O(log(n)), Space: O(n)
+- Quick Sort: Select a Pivot and Compare,  Efficiency: worst - O(n^2) average - O(log(n)), Space: O(1)
