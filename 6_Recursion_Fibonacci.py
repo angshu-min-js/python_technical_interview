@@ -5,6 +5,11 @@ def get_fib(position):
 
 
 # Test cases
-print get_fib(9)
-print get_fib(11)
-print get_fib(0)
+print (get_fib(9))
+print (get_fib(11))
+print (get_fib(0))
+'''
+In practice if we were to use recursion to solve this problem we should use a hash table
+to store and fetch previously calculated results. This will increase the space needed
+but will drastically improve the runtime efficiency.
+'''
