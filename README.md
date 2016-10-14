@@ -218,3 +218,14 @@ my_win.exitonlclick()
 - Quick Sort: Select a Pivot and Compare,  Efficiency: worst - O(n^2) average - O(log(n)), Space: O(1)
 
 ### Maps and Hashing
+- Map --> dictionary
+- Map is a 'set' based DS (no sequence) kinda like Arrays which is a 'list' based DS
+- Map = <key, value>
+- keys are unique sets
+- In Python, the map concept appears as a built-in data type called a dictionary.
+
+- Hasting: Take last few digits of the number and divide it with a consistent number and use the remainder to store the number
+```
+0123456 ---> 56/10 = 5, Remainder: 6
+{6: 0123456}
+```
