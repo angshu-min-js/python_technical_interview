@@ -205,3 +205,5 @@ draw_spiral(my_turtle, 100)
 my_win.exitonlclick()
 ```
 ### Searching and Sorting
+
+- Binary Search: Finding the mid and searching, O(log(n))
