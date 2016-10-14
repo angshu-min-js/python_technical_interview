@@ -242,7 +242,7 @@ Load Factor = Number of Entries / Number of Buckets
 - must be connected and shouldn't have cycles
 - Depth First Search Traversal: Pre-Order, In-Order, Post-Order
 
-<img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/tree.jpg" width="128">
+<img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/tree.jpg" width="512">
 
   BFS: A, B, C, D, E, F
 
