@@ -231,3 +231,8 @@ my_win.exitonlclick()
 ```
 - This helps to achieve a constant lookup
 - Collison: To avoid collision use a different hash function or use buckets
+```
+Load Factor = Number of Entries / Number of Buckets
+```
+- The purpose of a load factor is to give us a sense of how "full" a hash table is.
+- A Python dictionary is a hash map
