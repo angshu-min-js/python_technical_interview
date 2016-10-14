@@ -243,6 +243,7 @@ Load Factor = Number of Entries / Number of Buckets
 - Depth First Search Traversal: Pre-Order, In-Order, Post-Order
 
 ![Tree](https://github.com/angshu-min-js/python_technical_interview/blob/master/tree.jpg)
+
   BFS: A, B, C, D, E, F
 
   In-order: D, B, E, F, A, C
