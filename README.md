@@ -229,3 +229,5 @@ my_win.exitonlclick()
 0123456 ---> 56/10 = 5, Remainder: 6
 {6: 0123456}
 ```
+- This helps to achieve a constant lookup
+- Collison: To avoid collision use a different hash function or use buckets
