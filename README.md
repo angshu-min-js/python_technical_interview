@@ -83,10 +83,10 @@ print "Algorithm (Summation Eqn):", sum_of_n2(5000000)
 #Iterative solutions takes more time and less accurate
 ```
 #### Big-O Notation
-##### The order of magnitude function describes the part of T(n) that increases the
-##### fastest as the value of n increases. Order of magnitude is often called Big-O
-##### notation (for "order") and written as O(F(n)).  It provides a useful
-##### approximation to the actual number of steps in the computation.
+- The order of magnitude function describes the part of T(n) that increases the
+- fastest as the value of n increases. Order of magnitude is often called Big-O
+- notation (for "order") and written as O(F(n)).  It provides a useful
+- approximation to the actual number of steps in the computation.
 
 ```
 a = 5
@@ -104,7 +104,7 @@ d = 33 # 1
 
 # So, T(n) = 3 + 3n^2 + 2n + 1 =  4 + 3n^2 + 2n : O(n^2) --> Big-O, Quadratic (n^2)
 ```
-##### List: append: O(1), concatenation: O(k)
+- List: append: O(1), concatenation: O(k)
 
 ```
 def test1():
@@ -177,17 +177,17 @@ for i in range(10000,1000001,20000):
 350000,      5.577,      0.003
 370000,      5.818,      0.002
 ```
-### List is O(n) and Dictionary is O(1)
+- List is O(n) and Dictionary is O(1)
 
 
 
 ### Data Structures
 
-#### Stack: Addition & removal at top. LIFO
-#### Queue: Addition & removal different ends. FIFO.
-#### Dequeue: Double-ended queue. Hybrid. Both end-start
-#### Linked List: The basic building block for the linked list implementation is the node.
-#### Unordered List: Collection of nodes
+- Stack: Addition & removal at top. LIFO
+- Queue: Addition & removal different ends. FIFO.
+- Dequeue: Double-ended queue. Hybrid. Both end-start
+- Linked List: The basic building block for the linked list implementation is the node.
+- Unordered List: Collection of nodes
 
 ```
 import turtle
@@ -204,3 +204,4 @@ def draw_spiral(my_turtle, line_len):
 draw_spiral(my_turtle, 100)
 my_win.exitonlclick()
 ```
+### Searching and Sorting
