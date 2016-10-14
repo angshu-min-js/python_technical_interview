@@ -13,7 +13,7 @@ def quicksort(array):
             if x > pivot:
                 greater.append(x)
         return quicksort(less)+equal+quicksort(greater)  # + operator to join lists
-    else:  #one element in your array, just return the array.
+    else:  # if just return the array.
         return array
 
 print (quicksort([3,7,2,7,1]))
