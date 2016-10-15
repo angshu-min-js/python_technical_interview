@@ -280,3 +280,11 @@ Load Factor = Number of Entries / Number of Buckets
 - Connected: Here we only use "connected graph" to refer to undirected graphs. In a connected graph, there is some path between one vertex and every other vertex.
 
 - Strongly Connected: Strongly connected directed graphs must have a path from every node and every other node. So, there must be a path from A to B AND B to A.
+
+<img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/graph1.JPG" width="512">
+
+- Cycles:
+  G->R->A->P->H->G
+  R->A->P->R
+  R->A->P->S->R
+- U doesn't have a path, if converted every edge to an undirected edge, wouldn't be connected, weakly connected
