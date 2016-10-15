@@ -262,6 +262,13 @@ Load Factor = Number of Entries / Number of Buckets
 - All nodes which doesnt have two leaf must have null leaf nodes
 - If a node is black, its children must be black
 - All paths from node to descendant must have equal black nodes
+- RBT + BST rules
 
 <img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/redblacktree1.JPG" width="256">
 <img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/redblacktree2.JPG" width="256">
+
+### Graphs
+- Network
+- Similar to tree; is a spedific type of graph
+- Nodes and Edges
+<img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/graph.JPG" width="512">
