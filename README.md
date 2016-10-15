@@ -1,5 +1,5 @@
 
-# Declaration/Initialization
+### Declaration/Initialization
 - Remember values, not variables, have data types.
 - A variable can be reassigned to contain a different data type.
 ```
@@ -14,11 +14,11 @@ tuple = ("Tuples", "can have", "more than", 2, "elements!")
 dictionary = {'one': 1, 'two': 2, 'three': 3}
 variable_with_zero_data = None
 ```
-# Simple Logging
+### Simple Logging
 ```
 print "Printed!"
 ```
-# Conditionals
+### Conditionals
 ```
 if cake == "delicious":
     return "Yes please!"
@@ -35,7 +35,7 @@ while (total < max_val):
     i += 2
 ```
 
-# Functions
+### Functions
 ```
 def divide(dividend, divisor):
     quotient = dividend / divisor
@@ -46,7 +46,7 @@ def calculate_stuff(x, y):
     (q, r) = divide(x,y)
     print q, r
 ```
-# Classes
+### Classes
 ```
 class Person(object):
     def __init__(self, name, age):
