@@ -281,10 +281,12 @@ Load Factor = Number of Entries / Number of Buckets
 
 - Strongly Connected: Strongly connected directed graphs must have a path from every node and every other node. So, there must be a path from A to B AND B to A.
 
-<img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/graph1.JPG" width="512">
+<img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/graph1.JPG" width="256">
 
 - Cycles:
+```
   G->R->A->P->H->G
   R->A->P->R
   R->A->P->S->R
+```
 - U doesn't have a path, if converted every edge to an undirected edge, wouldn't be connected, weakly connected
