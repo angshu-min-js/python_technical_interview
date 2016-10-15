@@ -249,3 +249,10 @@ Load Factor = Number of Entries / Number of Buckets
   In-order: D, B, E, F, A, C
 
   Pre-order: A, B, D, E, F, C
+
+### Heaps
+- Increasing/decreasing order; max heap, min heap
+- Heapify: Reordering the list according to the heap property
+
+<img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/heap1.jpg" width="256">
+<img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/heap2.jpg" width="256">
