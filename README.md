@@ -256,3 +256,12 @@ Load Factor = Number of Entries / Number of Buckets
 
 <img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/heap1.JPG" width="512">
 <img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/heap2.JPG" width="512">
+
+### Red Black Trees: Balanced Tree
+- Values are black or Red
+- All nodes which doesnt have two leaf must have null leaf nodes
+- If a node is black, its children must be black
+- All paths from node to descendant must have equal black nodes
+
+<img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/redblacktree1.JPG" width="256">
+<img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/redblacktree2.JPG" width="256">
