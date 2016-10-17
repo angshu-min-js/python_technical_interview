@@ -304,3 +304,5 @@ Load Factor = Number of Entries / Number of Buckets
 <img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/graph_bfs.JPG" width="256">
 
 - O(|E| + |V|)
+
+- Eulerian Path and Hamiltonian Path
