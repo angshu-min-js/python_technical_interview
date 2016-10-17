@@ -293,8 +293,11 @@ Load Factor = Number of Entries / Number of Buckets
 
 <img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/graph_adjacent_matrix.JPG">
 - Efficiency: O(1), Space: O(n^2)
+
 <img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/graph_adjacent_list.JPG">
 - Efficiency: O(n), Space: O(n)-->O(n^2)
+
 <img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/graph_dfs.JPG" width="256">
 <img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/graph_bfs.JPG" width="256">
+
 - O(|E| + |V|)
