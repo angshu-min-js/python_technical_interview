@@ -290,3 +290,8 @@ Load Factor = Number of Entries / Number of Buckets
   R->A->P->S->R
 ```
 - U doesn't have a path, if converted every edge to an undirected edge, wouldn't be connected, weakly connected
+
+<img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/graph_adjacent_matrix.JPG">
+- Efficiency: O(1), Space: O(n^2)
+<img src="https://github.com/angshu-min-js/python_technical_interview/blob/master/images/graph_adjacent_list.JPG">
+- Efficiency: O(n), Space: O(n)>O(n^2)
