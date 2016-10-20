@@ -1,4 +1,3 @@
-
 ### Declaration/Initialization
 - Remember values, not variables, have data types.
 - A variable can be reassigned to contain a different data type.
@@ -306,3 +305,5 @@ Load Factor = Number of Entries / Number of Buckets
 - O(|E| + |V|)
 
 - Eulerian Path and Hamiltonian Path
+=======
+# 
