@@ -1,3 +1,26 @@
+## Preparing for a technical interview, "the good the bad and the ugly"
+
+Preparing for anything is difficult and specially a technical interview if you don't a CS degree. But it's not impossible, the big secret is ......."Practice".
+Well, it's that obvious but that's really all to it. Let me summarise:
+- Pick a language, Python is really easy to start with, you don't have to worry about learning the language and you can easily drive into solving problems
+- Solve problems, start with the basics and slowly you can move forward, SOLVE PROBLEMS EVERYDAY!
+- Learn an OO language, specially JAVA. After you're comfortable with python and basic algorithm and data structures you can move on to JAVA. JAVA really helps if you want to dive deep and learn Algorithms and Data Structures
+
+Few online python resourses:
+	1. https://www.coursera.org/specializations/python : This is an excellent course!
+	2. https://classroom.udacity.com/courses/cs101 : Learn how  basic search engine and social networks works
+	3. https://classroom.udacity.com/courses/ud513 : It can help you to start with your interview process, understand the basic mechanics
+	4. https://classroom.udacity.com/courses/cs215 : Algorithms - Intermediate Level
+	5. https://classroom.udacity.com : Algorithms - Intermediate Level
+	6. http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html : Title says it all :D
+
+
+## Below is a summary of python and basic algorithms and data structures
+
+	*Well, After I'm done with python I would make notes for JAVA, that's a promise :D*
+	
+
+
 ### Declaration/Initialization
 - Remember values, not variables, have data types.
 - A variable can be reassigned to contain a different data type.
