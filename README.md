@@ -17,7 +17,7 @@ Well, isn't that obvious but that's really all to it. Let me summarise:
 
 ## Below is a summary of python and basic algorithms and data structures
 
-	*Well, After I'm done with python I would make notes for JAVA, that's a promise :D*
+	Well, After I'm done with python I would make notes for JAVA, that's a promise :D
 	
 
 
