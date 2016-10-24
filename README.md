@@ -8,10 +8,10 @@ Well, isn't that obvious but that's really all to it. Let me summarise:
 
 ### Few online python resourses:
 1. https://www.coursera.org/specializations/python : This is an excellent course!
-2. https://classroom.udacity.com/courses/cs101 : Learn how  basic search engine and social networks works
+2. https://classroom.udacity.com/courses/cs101 : Learn how  basic search engine and social network works
 3. https://classroom.udacity.com/courses/ud513 : It can help you to start with your interview process, understand the basic mechanics
 4. https://classroom.udacity.com/courses/cs215 : Algorithms - Intermediate Level
-5. https://classroom.udacity.com : Algorithms - Intermediate Level
+5. https://classroom.udacity.com/courses/cs212 : Algorithms - Intermediate Level
 6. http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html : Title says it all :D
 
 
