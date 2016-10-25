@@ -271,6 +271,9 @@ Load Factor = Number of Entries / Number of Buckets
   In-order: D, B, E, F, A, C
 
   Pre-order: A, B, D, E, F, C
+  
+  Post-order: D, F, E, B, C, A
+
 
 ### Heaps
 - Increasing/decreasing order; max heap, min heap
