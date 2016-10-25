@@ -4,7 +4,7 @@ Preparing for anything is difficult and specially a technical interview if you d
 Well, isn't that obvious but that's really all to it. Let me summarise:
 - Pick a language, Python is really easy to start with, you don't have to worry about learning the language and you can easily drive into solving problems
 - Solve problems, start with the basics and slowly you can move forward, SOLVE PROBLEMS EVERYDAY!
-- Learn an OO language, specially JAVA. After you're comfortable with python and basic algorithm and data structures you can move on to JAVA. JAVA really helps if you want to dive deep and learn Algorithms and Data Structures
+- Learn JAVA. After you're comfortable with python and basic algorithm and data structures you can move on to JAVA. JAVA really helps if you want to dive deep and learn Algorithms and Data Structures
 
 ### Few online python resourses:
 1. https://www.coursera.org/specializations/python : This is an excellent course!
