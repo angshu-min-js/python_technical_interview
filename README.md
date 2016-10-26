@@ -2,9 +2,9 @@
 
 Preparing for anything is difficult and specially a technical interview if you don't a CS degree. But it's not impossible, the big secret is ......."Practice".
 Well, isn't that obvious but that's really all to it. Let me summarise:
-- Pick a language, Python is really easy to start with, you don't have to worry about learning the language and you can easily drive into solving problems
-- Solve problems, start with the basics and slowly you can move forward, SOLVE PROBLEMS EVERYDAY!
-- Learn JAVA. After you're comfortable with python and basic algorithm and data structures you can move on to JAVA. JAVA really helps if you want to dive deep and learn Algorithms and Data Structures
+- Pick a language, Python is really easy to start with, you don't have to worry about learning the language and you can easily dive into solving problems and algorithms
+- Solve problems and learn algorithms, start with the basics and slowly you can move forward, SOLVE PROBLEMS EVERYDAY!
+- Learn JAVA. After you're comfortable with python and basic algorithm you can move on to JAVA. JAVA really good with data structures and if you want to dive deep and learn Algorithms and Data Structures JAVA is the best. Period.
 
 ### Few online python resourses:
 1. https://www.coursera.org/specializations/python : This is an excellent course!
