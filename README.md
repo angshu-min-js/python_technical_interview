@@ -207,7 +207,7 @@ for i in range(10000,1000001,20000):
 
 - Stack: Addition & removal at top. LIFO
 - Queue: Addition & removal different ends. FIFO.
-- Dequeue: Double-ended queue. Hybrid. Both end-start
+- Deque : Double-ended queue. Hybrid. Both end-start
 - Linked List: The basic building block for the linked list implementation is the node.
 - Unordered List: Collection of nodes
 
