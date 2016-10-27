@@ -273,7 +273,7 @@ my_win.exitonlclick()
 {6: 0123456}
 ```
 - This helps to achieve a constant lookup
-- Collison: To avoid collision use a different hash function or use buckets
+- Collison: To avoid collision use a different hash function or use buckets (http://www.cs.cmu.edu/~clo/www/CMU/DataStructures/Lessons/lesson11_2.htm)
 ```
 Load Factor = Number of Entries / Number of Buckets
 ```
