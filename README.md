@@ -36,7 +36,7 @@ Well, isn't that obvious but that's really all to it. Let me summarise:
 6. http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html : Title says it all :D
 
 
-## Below is a summary of python and basic algorithms and data structures
+# Below is a summary of python and basic algorithms and data structures
 
 	Well, After I'm done with python I would make notes for JAVA, that's a promise :D
 	
@@ -351,6 +351,3 @@ Load Factor = Number of Entries / Number of Buckets
 
 - O(|E| + |V|)
 
-- Eulerian Path and Hamiltonian Path
-=======
-# 
