@@ -1,5 +1,26 @@
 # Preparing for a technical interview, "the good the bad and the ugly"
 
+```	c
+/*
+      Well, every one needs a safety Pig :D
+            _
+     _._ _..._ .-',     _.._(`))
+    '-. `     '  /-._.-'    ',/
+       )         \            '.
+      / _    _    |             \
+     |  a    a    /              |
+     \   .-.                     ;  
+      '-('' ).-'       ,'       ;
+         '-;           |      .'
+            \           \    /
+            | 7  .__  _.-\   \
+            | |  |  ``/  /`  /
+           /,_|  |   /,_/   /
+              /,_/      '`-'
+*/   
+```
+
+
 Preparing for anything is difficult and specially a technical interview if you don't a CS degree. But it's not impossible, the big secret is ......."Practice".
 Well, isn't that obvious but that's really all to it. Let me summarise:
 - Pick a language, Python is really easy to start with, you don't have to worry about learning the language and you can easily dive into solving problems and algorithms
