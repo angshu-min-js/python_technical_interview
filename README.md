@@ -232,21 +232,6 @@ for i in range(10000,1000001,20000):
 - Linked List: The basic building block for the linked list implementation is the node.
 - Unordered List: Collection of nodes
 
-```
-import turtle
-
-my_turtle = turtle.Turtle()
-my_wind = turtle.Screen()
-
-def draw_spiral(my_turtle, line_len):
-    if line_len > 0:
-        my_turtle.forward(line_len)
-        my_turle.right(90)
-        draw_spiral(my_turle, line_len = 5)
-
-draw_spiral(my_turtle, 100)
-my_win.exitonlclick()
-```
 ### Searching and Sorting
 
 - Binary Search: Finding the mid and searching, O(log(n))
