@@ -245,7 +245,8 @@ for i in range(10000,1000001,20000):
 
 - Bubble Sort: Naive Approach, compare two and switch, Efficiency: O(n^2), Space: O(1)
 - Selection Sort: Similar to bubble but swaps the largest/smallest and so on per pass. Efficiency: O(n^2), Space: O(1)
-- Insertion Sort: Again it's a naive approach, compares with a sub-list.
+- Insertion Sort: Again it's a naive approach, compares with a sub-list. Efficiency: O(n^2), Space: O(1)
+- Shell Sort: Efficiency: O(n^3/2), Space: O(1)
 - Merge Sort: Divide & Conquer, Efficiency: O(log(n)), Space: O(n)
 - Quick Sort: Select a Pivot and Compare,  Efficiency: worst - O(n^2) average - O(log(n)), Space: O(1)
 
