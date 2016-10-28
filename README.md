@@ -102,6 +102,8 @@ class Person(object):
 
 ### Algorithm Analysis
 
+- https://visualgo.net
+- https://www.toptal.com/developers/sorting-algorithms/
 ```
 import time
 
